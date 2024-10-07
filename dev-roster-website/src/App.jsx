@@ -23,7 +23,7 @@ function App() {
         </ul>
         <h2>University Counsel</h2>
         <ul>
-          <li>Test Developer Name</li>
+          <li>Lindsay Ulrey</li>
           <li>Test Developer Name</li>
         </ul>
       </div>
