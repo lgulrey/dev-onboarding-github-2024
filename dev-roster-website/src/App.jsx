@@ -21,6 +21,11 @@ function App() {
           <li>Test Developer Name</li>
           <li>Test Developer Name</li>
         </ul>
+        <h2>University Counsel</h2>
+        <ul>
+          <li>Test Developer Name</li>
+          <li>Test Developer Name</li>
+        </ul>
       </div>
     </>
   )
